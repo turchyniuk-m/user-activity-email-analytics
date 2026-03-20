@@ -39,7 +39,7 @@ This project analyzes user activity and email engagement using SQL and visualize
 ---
 
 ## 🔗 Dashboard
-👉 ([CLICK](https://lookerstudio.google.com/reporting/6e09e8cc-0041-41ba-bedc-8da1453ef02d))
+👉 [Click Here](https://lookerstudio.google.com/reporting/6e09e8cc-0041-41ba-bedc-8da1453ef02d)
 
 ---
 
